@@ -53,7 +53,7 @@ The map of Brazil illustrates the number of orders by state. It can be seen that
 
 Finally, the "Monthly analysis" plot shows the sales per month from 2019 to 2021. It is possible to see an Income decrease after December, 2020. Using the year filter as 2021, it is possible to see that the States of São Paulo, Sergipe and Pernambuco, which had higher concentration of orders on previous years, are faring worse in this year. 
 
-[<img src="images/Dash1.png">](https://public.tableau.com/app/profile/marcos.assis6468/viz/ChallengeBISem2/Hermexlog-Dashboard?publish=yes)
+[<img src="images/Dash1.png">](https://public.tableau.com/app/profile/marcos.assis6468/viz/Challengebisem3/Story1?publish=yes)
 
 
 ### Profit Simulation
@@ -66,7 +66,7 @@ The "Profit X Simulated Profit" highlights the difference between the real scena
 
 Considering that the Expenses remains constant (costs regarding product transportation), it is possible to reduce the profit margin to make the products more atractive to customers while maintaining a good profit margin.
 
-[<img src="images/Dash2.png">](https://public.tableau.com/app/profile/marcos.assis6468/viz/ChallengeBISem2/Hermexlog-Dashboard?publish=yes)
+[<img src="images/dash2.png">](https://public.tableau.com/app/profile/marcos.assis6468/viz/Challengebisem3/Story1?publish=yes)
 
 ### Possible solutions:
 
